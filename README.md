@@ -1,4 +1,2 @@
-In this Project, I made a website for a vircal city called nefertech.
-Nefer Tech is a smart city that uses advanced technology to improve daily life. Its built for sustainabilityit will use green energy "Solar panels" and it will use green Transportions "metro"
-it will carry the old Egyptian character Location n The middel of the cairo.
-I made a links in this 
+In this Project, NeferTech is a sustainable smart city that combines advanced technology with the spirit of ancient Egyptian heritage. It features green transportation, eco-friendly energy, smart systems, and modern education and entertainment services. Our goal is to build a better future while honoring the past.
+This project is a simple HTML-based landing page for the fictional smart city NeferTech. It uses structured semantic HTML to showcase the city's services, smart systems, and contact details. The page links to external CSS for styling and includes elements like lists, tables, headings, and images. It’s designed as a static informational website to demonstrate basic web development skills.
