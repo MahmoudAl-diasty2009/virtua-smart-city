@@ -1,0 +1,40 @@
+
+body {
+background-color: #5f5f5f;
+}
+
+p,ul,td{
+ color: #e2dfd6;
+}
+
+h1,h2,th{
+    color: #D7C2A8;
+}
+
+.gold{
+    color: gold;
+}
+
+.D7C2A8{
+    color: #D7C2A8;
+}
+
+.goldenrod{
+    color: goldenrod;
+}
+h1{
+  font-family: 'Aegyptus', 'Papyrus', serif;
+  font-size: 30px;
+  color: #8B5E3C;
+  background-color: #fdf9eb;
+  border: 2px solid #c2a16c;
+  border-radius: 8px;
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+table, th, td {
+  border: 3px solid darkgoldenrod;
+  border-collapse: collapse; 
+}
